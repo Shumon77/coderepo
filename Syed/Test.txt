@@ -1,0 +1,7 @@
+
+  I am Testing Git
+
+ git init
+ git add *
+ git status
+ git commit -m "Version-2"
